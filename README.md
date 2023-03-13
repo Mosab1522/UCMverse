@@ -1,5 +1,5 @@
 # UCMverse
-####Social platform for University of Ss. Cyril and Methodius in Trnava
+#### Social platform for University of Ss. Cyril and Methodius in Trnava
 
 ![photo](./ucm/1.png?raw=true)
 
